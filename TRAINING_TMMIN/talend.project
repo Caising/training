@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_H9LIkIq2Eeqmoqghc0A3KQ" label="training-tmmin" language="java" technicalLabel="TRAINING_TMMIN" author="_H9LIkYq2Eeqmoqghc0A3KQ" productVersion="Talend Cloud Big Data-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Caising/training.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+    <migrationTask xmi:id="_H_2pIIq2Eeqmoqghc0A3KQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_H9LIkYq2Eeqmoqghc0A3KQ" login="aangdyaksa@toyota.co.id" firstName="Aang" lastName="Dyaksa" type="DI"/>
+</xmi:XMI>
